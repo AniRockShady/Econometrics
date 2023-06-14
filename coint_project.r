@@ -1,4 +1,4 @@
-setwd("C:\\Users\\mraer\\Desktop\\UW\\Semester-2\\Advanced Econometrics\\New_Eco")
+setwd("C:\\Users\\mraer\\Desktop\\UW\\Semester-2\\Advanced Econometrics\\Econometrics")
 Sys.setenv(LANG = "en")
 
 
